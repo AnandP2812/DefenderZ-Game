@@ -1,4 +1,4 @@
-# Defenderz Game
+# DefenderZ Game
 
 #### Author: Anand Prajapati
 
